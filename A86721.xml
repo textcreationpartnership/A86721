@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble addresse of the provinciall synod, of Fife in Scotland. To His most sacred Majesty, after the receipt of his most gracious letter, to the several presbyteries of the Church of Scotland. Directed to the Right Honourable the Earle of Lauderdale, gentleman of His Majesties bed-chamber, and Lord Secretarie of Scotland, to me by him presented to His most Excellent Majesty.</title>
+            <author>Church of Scotland. Synod of Fife.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86721</idno>
+            <idno type="STC">Wing H3385</idno>
+            <idno type="STC">Thomason E1047_4</idno>
+            <idno type="STC">ESTC R208090</idno>
+            <idno type="EEBO-CITATION">99867086</idno>
+            <idno type="PROQUEST">99867086</idno>
+            <idno type="VID">119376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119376)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1047[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble addresse of the provinciall synod, of Fife in Scotland. To His most sacred Majesty, after the receipt of his most gracious letter, to the several presbyteries of the Church of Scotland. Directed to the Right Honourable the Earle of Lauderdale, gentleman of His Majesties bed-chamber, and Lord Secretarie of Scotland, to me by him presented to His most Excellent Majesty.</title>
+                  <author>Church of Scotland. Synod of Fife.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Calvert at the Half-Moon in Pauls. Church-yard, between the two North-doors,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf contains royal arms on verso.</note>
+                  <note>Annotation on Thomason copy: "nouemb. 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119376:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 134 -->
+            <p>An Humble ADDRESSE OF THE Provinciall Synod, OF FIFE IN SCOTLAND. To His moſt Sacred Majeſty, After the Receipt of His moſt Gracious LETTER, to the ſeveral Presbyteries of the Church of SCOTLAND.</p>
+            <p>Directed to the Right Honourable the Earle of <hi>Lauderdale,</hi> Gentleman of His Majeſties Bed-Chamber, and Lord Se<g ref="char:EOLhyphen"/>cretarie of <hi>Scotland,</hi> to be by him preſented to His moſt Excellent MAJESTY.</p>
+            <p>LONDON <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:119376:2"/>
+            <!-- PDF PAGE 135 -->
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:119376:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 135 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:119376:3"/>
+            <!-- PDF PAGE 136 -->
+            <pb n="1" facs="tcp:119376:3"/>
+            <!-- PDF PAGE 136 -->
+            <head>An Humble Addreſſe of the Provinciall Synod of <hi>Fife</hi> in <hi>SCOTLAND.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving received the double of a Let<g ref="char:EOLhyphen"/>ter ſent from his Majeſty with our brother Mr. <hi>James Scharp,</hi> to the Presbyterie of <hi>Edinborough,</hi> commu<g ref="char:EOLhyphen"/>nicated by them, by his Majeſties deſire, to the ſeverall Presbyteries of this Province (as it was alſo to other Presbyteries within this Kingdome) and by theſe, referred to this Aſſembly, becauſe of the near approaching of our meeting, for ſome returne to be given thereupon. And the ſame being read, once and again, in the publick audi<g ref="char:EOLhyphen"/>ence of the Aſſembly, we were ſo, to our great comfort and joy, affected with his Majeſties gra<g ref="char:EOLhyphen"/>cious reſolutions, therein expreſſed, in order to the matters of God: That, as we could not but break forth into joyfull thanksgiving to God in His Majeſties behalf; So judged we it our duty to expreſſe our ſenſe hereof to your Lordſhip, His Majeſties Secretary, which we humbly de<g ref="char:EOLhyphen"/>ſire your Lordſhip will be pleaſed, as convenien<g ref="char:EOLhyphen"/>cy may ſerve, to make known to his Majeſty.</p>
+            <pb n="2" facs="tcp:119376:4"/>
+            <!-- PDF PAGE 137 -->
+            <p>
+               <seg rend="decorInit">W</seg>Hen it ſeemed good to the Lord God, whoſe waies are all holy and righteous, for the i<g ref="char:EOLhyphen"/>niquity of the people of theſe Lands, to permit the power of rebellious, and ungodly men, ſo far to prevaile, as to the expelling His Sacred Majeſty out of His Kingdomes, and from the government thereof: This was, to us, the taking from us the breath of our Noſtrills, and the ſhadow, under which we were to have lived among the Nati<g ref="char:EOLhyphen"/>ons. And we did finde it indeed to be ſo, by many ſad and bitter oppreſſions, and confuſions, as well in civil intereſts, as in matters eccleſiaſtick, which followed thereupon, under, and by the domination of the Uſurpers, and are ſo notoure to the world, that we need not trouble your Lordſhip by taking up your time with a rehearſ<g ref="char:EOLhyphen"/>al thereof. As ſoon as His Majeſty returned, and entred again into his Kingdoms, we found, a reviving: eſpecially by that moſt Royall, Chri<g ref="char:EOLhyphen"/>ſtian, and Pious Proclamation, iſſued by his Ma<g ref="char:EOLhyphen"/>jeſty, the very next day after His firſt coming to His Royal Palace of <hi>White-hall,</hi> againſt unchri<g ref="char:EOLhyphen"/>ſtian heart-burnings, and revilings amongſt His Chriſtian Subjects and againſt profaneneſſe, and debaucht ryotings. This, as it was a clear
+<pb n="3" facs="tcp:119376:4"/>
+               <!-- PDF PAGE 137 -->evidence, that the Lord had ſanctified His Ma<g ref="char:EOLhyphen"/>jeſties afflictions to Him, and given Him his Judgments, and Righteouſneſſe; So was to us a ſtrong ground of joyfull hope, and aſſurance, that the righteous ſhall flouriſh in His daies; And that wiſedome, and knowledg, ſhall be the ſtabi<g ref="char:EOLhyphen"/>litie of his times, and ſtrength of ſalvation: And that the fear of the Lord is his Treaſure.</p>
+            <p>But now this His moſt Sacred Majeſties gra<g ref="char:EOLhyphen"/>cious Letter, hath fully quickned us, and ſet us, and this Church upon our feet; And is as the Lord were ſaying to us. <hi>Fear not, peace be unto you, be strong, yea, be ſtrong.</hi> As it is matter of great peace to our conſciences before God, by whom Kings do reign, that in theſe by-paſt times of try<g ref="char:EOLhyphen"/>als, and tentations, we have through the grace of God, according to our meaſure, ſympathized with our King in his ſufferings, and continued conſtant in our affection, and loyalty to His Majeſty, as our onely rightfull Soveraign under Almighty God: So it is no ſmall matter of com<g ref="char:EOLhyphen"/>fort, happineſſe, and rejoycing to us, that His Majeſty hath been graciouſly pleaſed to declare His aſſurance of, and good ſatisfaction with the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the generality of the Miniſters in this
+<pb n="4" facs="tcp:119376:5"/>
+               <!-- PDF PAGE 138 -->Kingdom, as to this. And as we do verily be<g ref="char:EOLhyphen"/>leeve, that for the generality of the Miniſters of <hi>Scotland,</hi> there is real cauſe why His Majeſty might well be ſo perſwaded of them: So it is to us great grief and affliction of Spirit, that any in this Kingdom, of what ſtation, or calling ſoe<g ref="char:EOLhyphen"/>ver, have, in the time of tryal, under whatſoever pretences, ſwarved from that Duty, and Allegi<g ref="char:EOLhyphen"/>ance they owed to his Majeſty: wiſhing that God may grant them repentance, and forgiveneſs of that grievous ſin, ſo hatefull to God, and ſo op<g ref="char:EOLhyphen"/>poſite to the principles of our holy Profeſſion.</p>
+            <p>But our hearts were filled with joy, beyond all, for the grace of God beſtowed upon His Majeſty, and his abundant goodneſſe tovvard this Church; by inclining His Majeſties royall Heart to reſolve, and, for aſſuring his people, <hi>graciouſly to declare it to be His reſolution, by the grace of God, to diſcountenance profaneneſſe, and all contemners, and oppoſers, of the ordinan<g ref="char:EOLhyphen"/>ces of the Goſpel; to protect, and preſerve the Government of this Church, as it is establiſhed by Law, without violation; to countenance in the due exerciſe of their Functions, all ſuch Mi<g ref="char:EOLhyphen"/>niſters, who ſhall behave themſelves dutifully
+<pb n="5" facs="tcp:119376:5"/>
+                  <!-- PDF PAGE 138 -->and peaceably</hi> (which, indeed, becometh men of their calling, and for our ſelves, we truſt, through grace, ſhall ever be our ſincere endeavour to do) <hi>as alſo to take care that the Authority, and Acts, of the generall Aſſembly of St.</hi> Andrewes <hi>and</hi> Dun<g ref="char:EOLhyphen"/>dee, <hi>in the year</hi> 1651. (wherein the peace of this Church, and the reputation thereof, in the eyes of all Churches about us, are ſo much concerned) <hi>be owned, and ſtand in force, untill another generall Aſsembly, promiſing graciouſly withall, that he will call another, as ſoon as His Majeſties affairs will permit</hi> (a bleſſing which the ſad affects that this Church hath ſuſtained by the want therof, through the oppreſſion of Uſurpers, makes us the more to long for, and will render the more ſweet to us.) <hi>My Lord,</hi> we cannot expreſſe, how great obliga<g ref="char:EOLhyphen"/>tions, we are ſenſible, doth lie upon our hearts, to bleſſe the Lord our God, who hath ſet up ſuch an hedg of royall Authority about this Church, and the matter of Religion among us, a people ſo un<g ref="char:EOLhyphen"/>worthy, and misdeſerving. And what addition we do finde theſe His Majeſties Gracious, and Pi<g ref="char:EOLhyphen"/>ous reſolutions, make to all the other Bonds and Engagements, Naturall, and Divine, we are under, to ſtudy to approve our ſelves faithfull, loyal, and
+<pb n="6" facs="tcp:119376:6"/>
+               <!-- PDF PAGE 139 -->loving Subjects to His Majeſty. If now, when the Lord hath procured to us ſuch a ſhadow, and aſſurance from His Sacred Majeſty, that we may live under Him a quiet, and peaceable life, in all godlineſſe, and honeſty, any ſhould yet labour to create jealouſies in the mindes of people, it were high wickedneſſe, and ingratitude, to be abomi<g ref="char:EOLhyphen"/>nated, both againſt God, and the King. We do heartily homolog at the reſolution of our brethren, hinted in his Majeſties Letter, not to meddle with<g ref="char:EOLhyphen"/>out their Sphere; and are reſolved, by the grace of God to do accordingly, in our reſpective Judica<g ref="char:EOLhyphen"/>tories, and every of us, in our particular Stations, judging it very aliene from our Calling, and con<g ref="char:EOLhyphen"/>trary to the clear revealed will of our Lord and Maſter Jeſus Chriſt, to intrude into, or intangle our ſelves with medling in matters that are not Eccleſiaſtick. We will alſo, according to our duty, whereunto we are ſo ſtraitly bound by the Command of God, and the tie of our Allegiance, and ſo deeply obliged in gratitude to his gracious Majeſty, endeavour, as is competent to us, to pro<g ref="char:EOLhyphen"/>mote His Majeſties Authority, and intereſts with His Subjects, againſt all oppoſers: And ſhall, in the way allowed to us, take notice of all ſuch, as
+<pb n="7" facs="tcp:119376:6"/>
+               <!-- PDF PAGE 139 -->ſhall in any way tranſgreſſe the limits of their Calling, by endeavouring to corrupt the people, or ſowe ſeeds of diſaffection to his Majeſty. And, as we eſteem it a ſingular mercy that we may expect His Majeſties favour in our Calling, and Work, (truſting that our Lord will furniſh us with wiſedom, and grace, ſo to carry our ſelves in all the managements thereof, that we ſhall not deſerve the withdrawing of His royall favour, and encouragement from us) ſo, it being the will of God, that prayers and ſupplications be made for all men, in ſpecial for Kings, and all in Authority: And His Majeſty being ſuch a King, who himſelf, is ſo piouſly, and affectionately deſi<g ref="char:EOLhyphen"/>rous of our prayers (which makes us confidently hopefull, that our Addreſſes to the Throne of Grace in his behalf, ſhall not be in vaine) we ſhall not faile, as the Spirit of the Lord ſhall help and enable us, to pray, in publike, and private, that our Almighty gracious God may multiply grace, mercy, and peace upon His royal heart; pour out bleſſings upon His Throne, and Go<g ref="char:EOLhyphen"/>vernment; preſerve his Perſon long to reign, a Nurſing Father to the Church of Jeſus Chriſt, in his Dominions, Amen.</p>
+            <pb n="8" facs="tcp:119376:7"/>
+            <!-- PDF PAGE 140 -->
+            <p>
+               <hi>My Lord,</hi> We humbly beg leave to trouble your Lordſhip with this one word more. VVe do heartily bleſſe the Lord in your behalf, for the good offices, we are certainly informed, your Lordſhip has done at this time for this your mo<g ref="char:EOLhyphen"/>ther Church. And we aſſure our ſelves, your Lordſhip will continue, and abound more and more in ſo good a work. We verily do think and look on it as a ſpecial mercy of God to this Church, that ſuch a Son of hers as your Lord<g ref="char:EOLhyphen"/>ſhip, a Perſon ſo eminently gifted and enabled of God, ſo well principled, is come to ſuch place and truſt about his Majeſtie, at ſuch a time as this. Your Lordſhips improving the advantage ther<g ref="char:EOLhyphen"/>of in ſo pious a ſervice, will be acceptable to God, be honourable to, and bring a bleſſing, we doubt not, upon your Lordſhips Perſon, and Noble Family. That ſo it may be, ſhall be the earneſt prayer of.</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <signed>Your Lordſhips very Humble Servants the Miniſters, and Elders of the Synod of <hi>Fife.</hi>
+               </signed>
+               <signed>Mr. <hi>George Hamilton</hi> Moderator in Name,</signed>
+               <signed>and by the Appointment of the Synod Mr. <hi>George Ogilvie</hi> Clerk.</signed>
+               <dateline>
+                  <hi>Kirkaldy,</hi> 
+                  <date>4. <hi>Octob.</hi> 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
